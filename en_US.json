@@ -867,6 +867,8 @@
     "TURN_INTO_BEAST_ALL_DESC": "Turns everyone into the beast, including you",
     "TURN_INTO_BEAST_DESC": "Turns the player into the beast",
     "TURN_SIGNALS": "Turn Signals",
+    "TURN_SIGNALS_GAMEPAD": "Turn Signals Gamepad",
+    "TURN_SIGNALS_GAMEPAD_DESC": "Replaces cinematic camara button to combo with DPAD",
     "TUTORIAL": "Tutorial",
     "TUTORIAL_DESC": "Only works on joining players",
     "UNABLE_TO_SPAWN_VEHICLE": "Unable to spawn vehicle",
